@@ -1,6 +1,6 @@
 # humanstxt-webpack-plugin
 
-[![NPM version](https://img.shields.io/npm/v/humanstxt-webpack-plugin.svg)](https://www.npmjs.org/package/@m00nbyte/humanstxt-webpack-plugin)
+[![NPM version](https://img.shields.io/npm/v/@m00nbyte/humanstxt-webpack-plugin.svg)](https://www.npmjs.org/package/@m00nbyte/humanstxt-webpack-plugin)
 
 Webpack plugin for [generate-humanstxt](https://github.com/m00nbyte/generate-humanstxt/)
 
